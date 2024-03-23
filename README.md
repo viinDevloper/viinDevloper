@@ -50,8 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/viinDevloper/viinDevloper/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
