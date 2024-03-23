@@ -1,3 +1,7 @@
+
+
+
+
 <h2 align="left">Hello 👋! My name is Vinicius and I'm a front end developer</h2>
 
 ###
@@ -46,13 +50,16 @@
 
 ###
 
-
-
+<img src="https://raw.githubusercontent.com/viinDevloper/viinDevloper/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/viinDevloper/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/viinDevloper/viinDevloper/output/snake.svg" alt="Snake animation" />
 
 ###
